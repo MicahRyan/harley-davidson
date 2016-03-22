@@ -87,12 +87,12 @@ body
 
 .bg-turquoise
 {
-    background-color: #1ABC9C !important;
+    background-color: rgb(165, 150, 113) !important;
 }
 
 .bg-aqua
 {
-    background-color: #16A085 !important;
+    background-color: rgb(165, 150, 113) !important;
 }
 
 .bg-sunflower
@@ -102,7 +102,7 @@ body
 
 .bg-orange
 {
-    background-color: #F39C12 !important;
+    background-color: rgb(165, 150, 113) !important;
 }
 
 .bg-sienna
@@ -117,7 +117,7 @@ body
 
 .bg-river
 {
-    background-color: #3498DB !important;
+    background-color: rgb(165, 150, 113) !important;
 }
 
 .bg-marina
@@ -219,12 +219,12 @@ body
 
 .bg-turquoise-hover:hover
 {
-    background-color: #1ABC9C !important;
+    background-color: rgb(165, 150, 113) !important;
 }
 
 .bg-aqua-hover:hover
 {
-    background-color: #16A085 !important;
+    background-color: rgb(165, 150, 113) !important;
 }
 
 .bg-sunflower-hover:hover
@@ -249,7 +249,7 @@ body
 
 .bg-river-hover:hover
 {
-    background-color: #3498DB !important;
+    background-color: rgb(165, 150, 113) !important;
 }
 
 .bg-marina-hover:hover
@@ -356,12 +356,12 @@ body
 
 .turquoise
 {
-    color: #1ABC9C !important;
+    color: rgb(165, 150, 113) !important;
 }
 
 .aqua
 {
-    color: #16A085 !important;
+    color: rgb(165, 150, 113) !important;
 }
 
 .sunflower
@@ -386,7 +386,7 @@ body
 
 .river
 {
-    color: #3498DB !important;
+    color: rgb(165, 150, 113) !important;
 }
 
 .marina
@@ -482,12 +482,12 @@ body
 
 .turquoise-hover:hover
 {
-    color: #1ABC9C !important;
+    color: rgb(165, 150, 113) !important;
 }
 
 .aqua-hover:hover
 {
-    color: #16A085 !important;
+    color: rgb(165, 150, 113) !important;
 }
 
 .sunflower-hover:hover
@@ -512,7 +512,7 @@ body
 
 .river-hover:hover
 {
-    color: #3498DB !important;
+    color: rgb(165, 150, 113) !important;
 }
 
 .marina-hover:hover
@@ -871,7 +871,7 @@ body
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6
 {
-    font-family: 'Lato', Helvetica, Arial, sans-serif;
+    font-family: 'Abril Fatface', cursive;
     line-height: 1.1;
 }
 
@@ -952,10 +952,10 @@ em
 
 /* LINKS */
 
-a { color: #1abc9c; }
+a { color: rgb(165, 150, 113); }
 
 a:hover {
-    color: #16a085;
+    color: rgb(165, 150, 113);
     text-decoration: none;
     -moz-transition: all 0.3s ease;
     -webkit-transition: all 0.3s ease;
@@ -991,7 +991,7 @@ ul.circle li:before
     font-family: 'fontawesome';
     content: '\f10c';
     font-size: 12px;
-    color: #16a085;
+    color: rgb(165, 150, 113);
     padding-top: 2px;
     margin-left: -20px;
     position: absolute;
@@ -1023,7 +1023,7 @@ ul.circle li:before
 {
     width: 10%;
     border-width: 2px;
-    border-color: #16a085;
+    border-color: rgb(165, 150, 113);
 }
 
 /* IMAGES */
@@ -1108,13 +1108,13 @@ p .btn
 
 .btn.btn-primary
 {
-    background: #1abc9c;
-    box-shadow: 0 2px #16a085;
+    background: rgb(165, 150, 113);
+    box-shadow: 0 2px rgb(165, 150, 113);
 }
 
 .btn.btn-primary:hover
 {
-    background: #16a085;
+    background: rgb(165, 150, 113);
 }
 
 /* Button WARNING */
@@ -1174,7 +1174,7 @@ p .btn
 
 .btn.btn-info
 {
-    background: #3498db;
+    background: rgb(165, 150, 113);
     box-shadow: 0 2px #2980b9;
 }
 
@@ -1231,8 +1231,7 @@ p .btn
 .icon.outline-light
 {
     color: #ffffff;
-    background: none;
-    border: 2px solid #ffffff;
+    background: rgb(165, 150, 113);
 }
 
 .btn-outline.outline-light:hover,
@@ -1414,7 +1413,7 @@ fieldset legend
 .form-group.focus .form-control,
 .form-control:focus
 {
-    border-color: #1abc9c;
+    border-color: rgb(165, 150, 113);
     outline: 0;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -1444,7 +1443,7 @@ fieldset[disabled] .form-control
 
 .form-control.form-minimal:focus
 {
-    border-color: #1abc9c;
+    border-color: rgb(165, 150, 113);
 }
 
 .has-success .help-block,
@@ -1723,13 +1722,13 @@ fieldset[disabled] .form-control
 .panel-title > a.collapsed,
 .panel-title > a.collapsed span
 {
-    color: #16A085;
+    color: rgb(165, 150, 113);
 }
 
 .panel-title > a,
 .panel-title > a:hover
 {
-    background: #16A085;
+    background: rgb(165, 150, 113);
     color: #fff;
 }
 
@@ -1854,10 +1853,10 @@ fieldset[disabled] .form-control
 {
     /*font-family: "Open Sans", Helvetica, Arial, sans-serif;*/
     font-size: 14px;
-    color: #16A085;
+    color: rgb(165, 150, 113);
     background: none;
     margin: 0 3px;
-    border: 1px solid #16A085;
+    border: 1px solid rgb(165, 150, 113);
     padding: 5px 12px;
 }
 
@@ -1866,7 +1865,7 @@ fieldset[disabled] .form-control
 .pagination > li > a:focus,
 .pagination > li > span:focus
 {
-    color: #16A085;
+    color: rgb(165, 150, 113);
 }
 
 .pagination > .active > a,
@@ -1876,8 +1875,8 @@ fieldset[disabled] .form-control
 .pagination > .active > a:focus,
 .pagination > .active > span:focus
 {
-    background-color: #1ABC9C;
-    border-color: #16A085;
+    background-color: rgb(165, 150, 113);
+    border-color: rgb(165, 150, 113);
 }
 
 .pagination > .disabled > span,
@@ -1913,9 +1912,9 @@ fieldset[disabled] .form-control
 .pager li > a,
 .pager li > span
 {
-    border: 1px solid #16A085;
+    border: 1px solid rgb(165, 150, 113);
     border-radius: 0;
-    color: #16A085;
+    color: rgb(165, 150, 113);
     /*font-family: "Open Sans", Helvetica, Arial, sans-serif;*/
     font-size: 14px;
     min-width: 160px;
@@ -1973,24 +1972,23 @@ fieldset[disabled] .form-control
 /* Small Devices, Tablets */
 
 @media only screen and (min-width : 768px){
-	
-	
-	
+
+
+
 }
 
 /* Medium Devices, Desktops */
 
 @media only screen and (min-width : 992px){
-	
-	
-	
+
+
+
 }
 
 /* Large Devices, Wide Screens */
 
 @media only screen and (min-width : 1200px){
-	
-	
-	
-}
 
+
+
+}

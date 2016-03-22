@@ -69,14 +69,14 @@ Version: 1.0
 
 #header-1 .main-nav .navbar-nav > li.active a
 {
-    color: #3498DB;
+    color: rgb(165, 150, 113);
     background: none;
 }
 
 
 #header-1 .main-nav .navbar-nav > li a:hover
 {
-    color: #3498DB;
+    color: rgb(165, 150, 113);
     background: none;
 }
 
@@ -293,7 +293,7 @@ Version: 1.0
 
 #header-2 .navbar-toggle:hover .icon-bar
 {
-    background-color: #3498DB;
+    background-color: rgb(165, 150, 113);
 }
 
 #header-2 .navbar-fixed-top .navbar-collapse
@@ -322,13 +322,13 @@ Version: 1.0
 
 #header-2 .main-nav .navbar-nav > li.active a
 {
-    color: #3498DB;
+    color: rgb(165, 150, 113);
 }
 
 
 #header-2 .main-nav .navbar-nav > li a:hover
 {
-    color: #3498DB;
+    color: rgb(165, 150, 113);
 }
 
 #header-2 .main-nav .navbar-nav > li a:focus
@@ -359,7 +359,7 @@ Version: 1.0
 
 #header-2 .main-nav .nav .dropdown-menu a:hover
 {
-    background: #3498DB;
+    background: rgb(165, 150, 113);
     color: #fff;
 }
 
@@ -757,7 +757,7 @@ Version: 1.0
 /*----------------------------------------------------*/
 
 .promo-3 {
-	background: url("../images/hero-1.jpg") center top no-repeat;
+	background: url("../images/hero-1.jpg") center bottom no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -769,12 +769,13 @@ Version: 1.0
 
 .promo-3 h1 {
 	font-size: 60px;
-	color: #ffffff;
+	color: #4F4E53;
+  font-weight: 900;
 }
 
 .promo-3 h2 {
 	font-weight: 600;
-	color: #ffffff;
+	color: #4F4E53;
 }
 
 .promo-3 a {
@@ -1031,7 +1032,7 @@ Version: 1.0
 
 .content-1-5 h1
 {
-    color: #3498DB;
+    color: rgb(165, 150, 113);
 }
 
 /*	CONTENT BLOCK 1-3 MEDIA QUERIES
@@ -1244,7 +1245,7 @@ Version: 1.0
 .content-1-9 .fa
 {
     font-size: 32px;
-    color: #16A085;
+    color: rgb(165, 150, 113);
 }
 
 /*	CONTENT BLOCK 1-9 MEDIA QUERIES
@@ -1870,7 +1871,7 @@ Version: 1.0
 	background-color: rgba(253, 156, 18, 0.8);
 }
 .overlay-blue {
-	background-color: rgba(52, 152, 219, 0.8);
+	background-color: rgba(154, 154, 154, 0.8);
 }
 
 /*	CONTENT BLOCK 3-1
@@ -2541,7 +2542,7 @@ Version: 1.0
 .gallery-2-title hr {
 	width: 10%;
 	border-width: 2px;
-	border-color: #16a085;
+	border-color: rgb(165, 150, 113);
 }
 
 *, *:after, *:before { box-sizing: border-box; }
@@ -2816,7 +2817,7 @@ Version: 1.0
 
 .gallery-item .gallery-thumb .gallery-zoom:hover, .gallery-item .gallery-thumb .gallery-link:hover
 {
-    background-color: #1ABC9C;
+    background-color: rgb(165, 150, 113);
     color: #ffffff;
 }
 
@@ -2920,7 +2921,7 @@ Version: 1.0
 .filter li a:focus,
 .filter li a.active
 {
-    color: #1ABC9C;
+    color: rgb(165, 150, 113);
     text-decoration: none;
 }
 
@@ -3624,7 +3625,7 @@ Version: 1.0
 
 .contact-1 .contact-info span {
 	margin-right: 7px;
-	color: #1abc9c;
+	color: rgb(165, 150, 113);
 	padding-right: 5px;
 }
 
@@ -3641,7 +3642,7 @@ Version: 1.0
 }
 
 .contact-1 .contact-info li a:hover {
-	color: #1abc9c
+	color: rgb(165, 150, 113)
 }
 
 #map {
