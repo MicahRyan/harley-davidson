@@ -1237,23 +1237,23 @@ p .btn
 .btn-outline.outline-light:hover,
 .icon.outline-light:hover
 {
-    color: #2c3e50;
+    color: rgb(165, 150, 113);
     background: #ffffff;
 }
 
 .btn-outline.outline-dark,
 .icon.outline-dark
 {
-    color: #2c3e50;
+    color: rgb(165, 150, 113);
     background: none;
-    border: 2px solid #2c3e50;
+    border: 2px solid rgb(165, 150, 113);
 }
 
 .btn-outline.outline-dark:hover,
 .icon.outline-dark:hover
 {
     color: #ffffff;
-    background: #2c3e50;
+    background: rgb(165, 150, 113);
 }
 
 button:hover
