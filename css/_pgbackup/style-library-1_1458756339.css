@@ -1109,12 +1109,12 @@ p .btn
 .btn.btn-primary
 {
     background: rgb(165, 150, 113);
-    box-shadow: 0 2px rgb(119, 108, 80);
+    box-shadow: 0 2px rgb(165, 150, 113);
 }
 
 .btn.btn-primary:hover
 {
-    background: rgb(136, 123, 91);
+    background: rgb(165, 150, 113);
 }
 
 /* Button WARNING */
