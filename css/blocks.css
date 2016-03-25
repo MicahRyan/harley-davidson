@@ -2000,7 +2000,8 @@ Version: 1.0
 .content-3-3 {
 	background-image: url("../images/clouds.jpg");
 	background-size: cover !important;
-	min-height: 500px;
+  background-position: 50%;
+	min-height: 400px;
 }
 
 .content-3-3 .overlay {
@@ -2378,6 +2379,7 @@ Version: 1.0
 .content-3-10 {
 	padding: 0px;
 	position: relative;
+  background: #F5F5F5;
 }
 
 .content-3-10 .image-container {
@@ -2450,6 +2452,7 @@ Version: 1.0
 .content-3-11 {
 	padding: 0px;
 	position: relative;
+  background: #F5F5F5;
 }
 
 .content-3-11 .image-container {
